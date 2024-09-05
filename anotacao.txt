@@ -1,0 +1,7 @@
+git clone URL feito para clonar o repositorio
+cd nome_da_pasta  | change directory | mudar diretório
+git add . "quando temos o "." significa todos os arquivos"
+git commit -m "MENSAGEM"  tira uma foto
+git push | EMPURRAR
+git pull | PUXAR
+
